@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langchain_core
+python-dotenv
+streamlit
+pypdf
+langchain_google_genai
+google-generativeai
+faiss-cpu
+langchain_groq
+arxiv
+wikipedia
+langchainhub
+sentence_transformers
+langchain-objectbox
